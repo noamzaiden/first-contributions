@@ -10,6 +10,7 @@
 - [Esti](https://github.com/3256483-lab)
 -[Aditya Kumar](https://github.com/Aditya-kumar-yadav)-- Hello world. Aditya Kumar here, pushing my first open-source commit. Every long game starts with a single move; let's see where my final PR eventually lands
 -[Nandini Singh](https://github.com/Nandinisingh-05) - Hi, this is my first contribution!
+
 -[surajorg48](https://github.com/surajorg48)
 -[Pablo Ribeiro](https://github.com/PabLoSWeB)
 [DEVORA KELETI](https://github.com/dvori27385)
@@ -3286,6 +3287,7 @@ andrewcodess
 - [Madhan Kumaar](https://github.com/Madhan3009)
 - [Mashhood K](https://github.com/mashhoodx)
 - Aanya
+- Noam
 - [Prashant Kumar](https://github.com/RanDomGuY84)
 - [Minglang Chen](https://github.com/langchengit)
 - [Donny Guo](https://github.com/Donny-Guo)
